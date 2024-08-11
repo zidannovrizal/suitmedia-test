@@ -17,7 +17,7 @@ This application is built with Flutter, using GetX for state management and the 
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/zidannovrizal/suitmedia-test
    ```
 2. Navigate to the project directory:
    ```bash
